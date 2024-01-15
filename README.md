@@ -3,7 +3,7 @@
 
 Bem-vindo ao **Yu-Gi-Oh! JoKenPo**! Neste repositório, você encontrará um jogo divertido baseado na mistura do famoso anime "Yu-Gi-Oh!" com o aclamado jogo "JokenPo. Este projeto não apenas oferece entretenimento, mas também demonstra várias técnicas avançadas de desenvolvimento de jogos em JavaScript.
 
-![alt text](Yu-Gi-Oh-game.gif)
+![](Yu-Gi-Oh-game.gif)
 
 ### Tecnologias Utilizadas
 
